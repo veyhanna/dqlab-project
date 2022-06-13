@@ -1,4 +1,4 @@
-# dqlab-project
+# DQLab - Project
 All project I've done in DQLab Academy
 
 ## SQL
